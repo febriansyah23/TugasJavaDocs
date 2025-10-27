@@ -6,7 +6,7 @@
 ---
 
 ### Deskripsi
-Proyek ini adalah aplikasi Java sederhana untuk menghitung **rata-rata nilai mahasiswa** dan menentukan **status kelulusan**. Dokumentasi kode dibuat menggunakan **JavaDocs** untuk mempermudah pemeliharaan, pembaruan, dan kolaborasi tim pengembang.
+Aplikasi Java minimalis ini bertugas menghitung nilai rata-rata mahasiswa dan menentukan status kelulusan mereka. Untuk memfasilitasi perawatan, pengembangan lebih lanjut, dan kerja sama tim, dokumentasi kode telah dihasilkan melalui JavaDocs.
 
 ---
 
@@ -54,3 +54,4 @@ javadoc -d docs src/*.java
 
 Folder docs/ akan berisi dokumentasi HTML.
 Buka docs/index.html di browser untuk melihat dokumentasi.
+
